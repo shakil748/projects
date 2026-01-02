@@ -1,0 +1,13 @@
+.blog{
+  background-color: lightblue;
+ 
+  
+}
+#second-blog{
+  background-color: lightgreen;
+  /* display: none; */
+}
+#sk{
+  color: red;
+  border-top: 3px solid black;
+}

@@ -1,0 +1,31 @@
+.article{
+  border: 15px solid lightblue;
+  margin: 15px;
+  width: 600px;
+  box-shadow: 10px 20px 15px black;
+  background-color: paleturquoise;
+  padding: 20px;
+  box-shadow: 10px 10px 10px grey;
+}
+header{
+  background-color: lightblue;
+  padding: 20px;
+  height: 50pc;
+  background-image: url(a\ high-quality\ coast.png);
+  background-size: cover;
+}
+ol{
+  background-color: lightblue;
+  padding: 20px;
+  border: 10px solid lightblue;
+  box-shadow: 10px 10px 10px grey;
+  color: darkblue;
+
+}
+ul{
+  background-color: lightblue;
+  padding: 20px;
+  border: 10px solid lightblue;
+  box-shadow: 10px 10px 10px grey;
+  color: darkmagenta;
+}
